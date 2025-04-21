@@ -2,30 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Nächster Termin
 
-[Link to another page](./another-page.html).
+## .Net Aspire & GraphQL - Simplify complex Solutions
+![](/upcomming.avif)
 
-There should be whitespace between paragraphs.
+## Details
+Hans Meyer von Team Beverage wird einmal aufzeigen, was HotChocolate und Aspire für verteilte Services möglich machen. Anhand einer Domain mit Datenbanken, Redis-Cache, Blazor-Frontend und mehreren Backend-Services wird Hans demonstrieren, wie man .Net Aspire und GraphQL zielgerichtet einsetzen kann, um performante und smarte Lösungen zu entwerfen.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Datum
+tbd.
 
-# Header 1
+## Location:
+Das Event wird Vor-Ort bei Team Beverage stattfinden:
+Industriestraße 10
+18069 Rostock
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Agenda:
+18:30 - 18:40 Eintreffen & Begrüßung
+18:40 - 19:00 Interessante Azure Updates
+19:00 - 20:30 .Net Aspire & GraphQL
 
-## Header 2
+## Organisatorischer Hinweis:
+Die Veranstaltung wird von Freiwilligen organisiert und durchgeführt, in der Regel in den Räumlichkeiten unserer Arbeitgeber (vielen Dank!). Sie ist kostenlos und es wird dabei für keine Produkte/Leistungen geworben. Es handelt sich um einen offenen Austausch zwischen Entwicklern und Cloud-Fans. Die Agenda dient der Orientierung und wird nie genau eingehalten. Wer selbst etwas zeigen/vortragen möchte (gerne auch nur 20 Minuten) oder über etwas diskutieren will, kann sich gerne melden und wir planen das entsprechend ein.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# Historische Termine
+[2025-02-26 Demonstrate your favorite Extensions/Tools](/2025-02-26.md)
+[2024-11-06 Chat with your indexed Azure Database Table](/2024-11-06.md)
+[2024-09-11 Databricks Unity Catalog in Theorie & Praxis](/2024-09-11.md)
