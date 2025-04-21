@@ -27,6 +27,6 @@ Industriestraße 10
 Die Veranstaltung wird von Freiwilligen organisiert und durchgeführt, in der Regel in den Räumlichkeiten unserer Arbeitgeber (vielen Dank!). Sie ist kostenlos und es wird dabei für keine Produkte/Leistungen geworben. Es handelt sich um einen offenen Austausch zwischen Entwicklern und Cloud-Fans. Die Agenda dient der Orientierung und wird nie genau eingehalten. Wer selbst etwas zeigen/vortragen möchte (gerne auch nur 20 Minuten) oder über etwas diskutieren will, kann sich gerne melden und wir planen das entsprechend ein.
 
 # Historische Termine
-[2025-02-26 Demonstrate your favorite Extensions/Tools](/2025-02-26.md)
-[2024-11-06 Chat with your indexed Azure Database Table](/2024-11-06.md)
-[2024-09-11 Databricks Unity Catalog in Theorie & Praxis](/2024-09-11.md)
+* [2025-02-26 Demonstrate your favorite Extensions/Tools](/2025-02-26.md)
+* [2024-11-06 Chat with your indexed Azure Database Table](/2024-11-06.md)
+* [2024-09-11 Databricks Unity Catalog in Theorie & Praxis](/2024-09-11.md)
